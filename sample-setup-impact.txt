@@ -1,0 +1,2 @@
+{"moondeg": 2285.590190858275, "xmd": 1.560608508374508, "ymd": 1.248705844149553e-05, "vx": -37.95327204672538, "vy": 743.6928216427443, "dt": 10, "wscale": 2.0, "rscale": 5.0, "chktrig": 10000, "Description": "Logging: eventual lunar impact"}
+
