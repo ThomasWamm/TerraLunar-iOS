@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#  20:59pm  18-May-2020      TerraLunar program
+#  22:59pm  18-May-2020      TerraLunar program
 # This version for Pythonista environment on iOS devices.
 #
 # 2-D orbital mechanics simulation in Earth-Moon space.
@@ -65,7 +65,7 @@ cfg6 = {'for local configuration: ': 'edit this then resave as tl.cfg',
        'windowheight': 639,
        'localconfig': 'medium res on iPod6'}
 
-cfg = cfg1
+cfg = cfg2
 
 with open('tl-sample.cfg', 'w') as f:
 	json.dump(cfg, f)
