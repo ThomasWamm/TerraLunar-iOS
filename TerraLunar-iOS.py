@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#  17:59pm  18-May-2020      TerraLunar program
+#  20:59pm  18-May-2020      TerraLunar program
 # This version for Pythonista environment on iOS devices.
 #
 # 2-D orbital mechanics simulation in Earth-Moon space.
