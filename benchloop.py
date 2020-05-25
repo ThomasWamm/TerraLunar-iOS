@@ -13,14 +13,14 @@ for i in range(loops):
 
 endtime = time.process_time()
 elapsed = endtime - starttime
-print('Sum = {sum}')
+print(f'Sum = {sum}')
 print(f'Ran {loops:1,d} loops in {elapsed:3,.1f} seconds, so {(loops/elapsed):3,.0f} loops per second.')
 
 '''
 Results on different devices: 
-	iPad Air2	      Ran 100,000,000 loops in 24.4 seconds, so 4,094,389 loops per second.
-	iPhoneX		      Ran 100,000,000 loops in 10.7 seconds, so 9,338,982 loops per second.
-	iPod6           Ran 100,000,000 loops in 29.2 seconds, so 3,421,853 loops per second.
+	iPad Air2	      4,556k loops/s
+	iPhoneX		      9,338k loops/s
+	iPod6           3,421k loops/s
 	Dell Optiplex   
 	Dell laptop     
 	HP laptop       
