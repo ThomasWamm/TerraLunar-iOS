@@ -18,8 +18,8 @@ print(f'Ran {loops:1,d} loops in {elapsed:3,.1f} seconds, so {(loops/elapsed):3,
 
 '''
 Results on different devices: 
-	iPad Air2	      4,556k loops/s
-	iPhoneX		      9,338k loops/s
+	iPad Air2	4,556k loops/s
+	iPhoneX		9,338k loops/s
 	iPod6           3,421k loops/s
 	Dell Optiplex   
 	Dell laptop     
@@ -31,4 +31,3 @@ Results on different devices:
 	Rpi3clr
 	Rpi0w
 '''
-
